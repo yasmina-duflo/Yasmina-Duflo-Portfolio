@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Portfolio de Yasmina DUFLO — Designer graphique & Développeuse web, étudiante BUT MMI à l'Université des Antilles en Guadeloupe.">
+  <title>Yasmina DUFLO — Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Caveat:wght@600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="grain" aria-hidden="true"></div>
+  <div id="cursor" aria-hidden="true">
+    <span class="cursor-dot"></span>
+    <svg class="cursor-circle" viewBox="0 0 100 100" aria-hidden="true">
+      <path d="M50,8 C74,8 90,26 90,50 C90,74 72,90 48,92 C24,94 8,74 10,50 C12,26 28,8 50,8"></path>
+    </svg>
+  </div>
+
+  <header>
+    <a href="index.html" class="logo" aria-label="Yasmina DUFLO — Accueil">Yasmina.DUFLO</a>
+    <button class="btn-burger" id="burger" aria-expanded="false" aria-controls="main-nav" aria-label="Ouvrir le menu">☰</button>
+    <nav id="main-nav" aria-label="Navigation principale">
+      <button class="btn-fermer-menu" id="fermer-menu" aria-label="Fermer le menu">✕</button>
+      <a href="index.html" class="actif" aria-current="page">Accueil</a>
+      <a href="projet.html">Projets</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="btn-theme" aria-label="Activer le thème sombre" title="Changer de thème">☾</button>
+    <div class="menu-overlay" id="menu-overlay"></div>
+  </header>
+
+  <main id="contenu">
+
+    <!-- HERO -->
+    <section id="hero" aria-labelledby="titre-hero">
+      <div class="hero-left">
+        <p class="hero-eyebrow" aria-hidden="true">Bienvenue sur mon </p>
+        <h1 id="titre-hero" class="hero-name">
+        Créative<br><em>PORTFOLIO</em>
+        </h1>
+        <p class="hero-desc">Designeuse graphique & développeuse web. Je donne vie aux idées à travers des identités visuelles fortes et des expériences numériques mémorables.</p>
+        <a href="projet.html" class="hero-cta">Voir mes projets</a>
+        <div class="scroll-indicator" aria-hidden="true">
+          <div class="scroll-line"></div>
+          <span>Scroll</span>
+        </div>
+      </div>
+      <div class="hero-right" aria-hidden="true">
+        <div class="shape-cluster">
+          <div class="shape-wash"></div>
+          <div class="shape shape-blob"></div>
+          <div class="shape shape-circle"></div>
+          <div class="shape shape-ring"></div>
+          <div class="shape shape-triangle"></div>
+          <div class="shape shape-stroke"></div>
+          <div class="shape shape-dot"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- MARQUEE -->
+    <div class="marquee-wrap" aria-hidden="true">
+      <div class="marquee-track">
+        <div class="marquee-item"><span>Design graphique</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Développement web</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Identité visuelle</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Créativité & Code</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Branding</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Communication digitale</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Gestion de projet</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Montage vidéo</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Design graphique</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Développement web</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Identité visuelle</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Créativité & Code</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Branding</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Communication digitale</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Gestion de projet</span><div class="marquee-dot"></div></div>
+        <div class="marquee-item"><span>Montage vidéo</span><div class="marquee-dot"></div></div>
+      </div>
+    </div>
+
+    <!-- À PROPOS -->
+    <section id="apropos" aria-labelledby="titre-apropos">
+      <div class="apropos-img-wrap reveal">
+        <img src="Images/Ya 2.jpeg" alt="Portrait de Yasmina DUFLO">
+      </div>
+      <div class="apropos-text reveal reveal-d1">
+        <div class="section-label" aria-hidden="true">À propos de moi</div>
+        <h2 id="titre-apropos" class="section-title">Yasmina <em>DUFLO</em></h2>
+        <p>Jeune étudiante en première année de BUT MMI à l'Université des Antilles en Guadeloupe.</p>
+        <p>Passionnée par la création de logos, le graphisme et le webdesign, je fais vivre ma créativité à travers chacun de ces domaines.</p>
+        <p>Je suis quelqu'un de déterminé, curieux et perfectionniste. Quand je me lance dans un projet, je m'y investis à fond — que ce soit une identité visuelle, un site web ou une campagne de communication.</p>
+        <p>Polyvalente et toujours en quête d'apprentissage, je ne me limite pas à un seul domaine. Du design à la communication, du développement web à la gestion de projet — j'aime explorer, progresser et repousser mes limites.</p>
+        
+
+        <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; margin-bottom: 0.5rem;">
+          <a href="CV_Yasmina_DUFLO.pdf" target="_blank" rel="noopener" class="btn-cv" aria-label="Télécharger mon CV (PDF)">
+            Voir mon CV →
+          </a>
+          <a href="https://www.linkedin.com/in/yasmina-duflo-9bb528389/" target="_blank" rel="noopener" class="btn-cv" aria-label="Mon profil LinkedIn">
+            LinkedIn →
+          </a>
+        </div>
+
+        <div class="section-label" aria-hidden="true">Mes compétences</div>
+
+        <div class="competences-list" role="list" aria-label="Compétences">
+          <span class="comp-pill" role="listitem">HTML / CSS</span>
+          <span class="comp-pill" role="listitem">JavaScript / PHP</span>
+          <span class="comp-pill" role="listitem">Canva</span>
+          <span class="comp-pill" role="listitem">GIMP</span>
+          <span class="comp-pill" role="listitem">Adobe Photoshop</span>
+          <span class="comp-pill" role="listitem">Adobe Illustrator</span>
+          <span class="comp-pill" role="listitem">DaVinci Resolve</span>
+          <span class="comp-pill" role="listitem">Montage vidéo</span>
+          <span class="comp-pill" role="listitem">Communication digitale</span>
+          <span class="comp-pill" role="listitem">Stratégie de communication</span>
+          <span class="comp-pill" role="listitem">Gestion de projet</span>
+          <span class="comp-pill" role="listitem">Capcut</span>
+          <span class="comp-pill" role="listitem">UX / UI Design</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJETS SÉLECTIONNÉS -->
+    <section class="section-projets" aria-labelledby="titre-projets-home">
+      <div style="max-width:1200px; margin:0 auto;">
+        <div class="section-label" aria-hidden="true">Réalisations</div>
+        <h2 id="titre-projets-home" class="section-title">Projets <em>sélectionnés</em></h2>
+      </div>
+      <div class="projets-grid">
+        <article class="projet-card reveal" role="button" tabindex="0"
+          aria-label="Voir la Charte Graphique"
+          onclick="ouvrirModalDirect({titre:'Lips',img:'Images/Charte graphique  page 1.png',categorie:'Design · Canva',desc:'Création d\'une identité visuelle complète pour une startup fictive — typographie, palette de couleurs, logo et ses déclinaisons.',lien:null,download:'https://drive.google.com/file/d/1xMpSnZLUf0g6MUJd02kAfNarXr-osQH9/view?usp=drive_link'})">
+          <img src="Images/Charte graphique  page 1.png" alt="">
+          <div class="projet-overlay" aria-hidden="true">
+            <h3 class="projet-title">Lips</h3>
+          </div>
+        </article>
+        <article class="projet-card reveal reveal-d1" role="button" tabindex="0"
+          aria-label="Voir Logo Yasmina.D"
+          onclick="ouvrirModalDirect({
+            titre:'Yasmina.D — Logo',
+            img:'Images/logo_moi.png',
+            categorie:'Design · Personal branding',
+            desc:'Création de mon logo personnel. Logotype typographique avec lettres entrelacées en dégradé rose-doré sur fond noir — esthétique éditoriale et luxueuse.',
+            lien:null,
+            download:null
+          })">
+          <img src="Images/logo_moi.png" alt="Logo personnel Yasmina.D — typographie entrelacée">
+          <div class="projet-overlay" aria-hidden="true">
+            <h3 class="projet-title">Logo Yasmina.D</h3>
+          </div>
+        </article>
+        <article class="projet-card reveal reveal-d2" role="button" tabindex="0"
+          aria-label="Voir Marëis"
+          onclick="ouvrirModalDirect({titre:'Marëis',img:'Images/Mareis.jpeg',categorie:'Web · HTML / CSS',desc:'Site associatif bilingue pour la protection marine en Guadeloupe, réalisé en équipe dans le cadre d\'une SAÉ BUT MMI.',lien:'https://sallyanicet-gif.github.io/sae-1.05/index.html',download:null})">
+          <img src="Images/Mareis.jpeg" alt="Site MARËIS">
+          <div class="projet-overlay" aria-hidden="true">
+            <h3 class="projet-title">Marëis</h3>
+          </div>
+        </article>
+      </div>
+      <div class="voir-plus-wrap">
+        <a href="projet.html" class="btn-ghost">Voir tous les projets</a>
+      </div>
+    </section>
+
+    <!-- CTA CONTACT -->
+    <section aria-labelledby="titre-cta" style="text-align:center; max-width:700px; margin:0 auto;">
+      <div class="section-label" aria-hidden="true" style="justify-content:center;">Contact</div>
+      <h2 id="titre-cta" class="section-title">Un projet ?<br><em>Parlons-en.</em></h2>
+      <p style="font-size:0.95rem; color:var(--muted); font-weight:300; line-height:1.9; margin:1.5rem 0 3rem;">N'hésite pas à me contacter pour toute collaboration, stage ou projet créatif.</p>
+      <a href="contact.html" class="btn-ink">Me contacter</a>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© <span id="annee"></span> Yasmina DUFLO — BUT MMI · Université des Antilles</p>
+    <p>Design & Développement web</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+  <script>
+    function ouvrirModalDirect(p) {
+      if (typeof creerModal === 'function') {
+        creerModal();
+        ouvrirModal(p);
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,263 @@
+[
+  {
+    "titre": "Tour Eiffel — Voile doré",
+    "tag": "design",
+    "img": "Images/tour_eiffel.png",
+    "alt": "Tour Eiffel de nuit avec voile doré ondulant",
+    "categorie": "Design · Photomontage · Photoshop",
+    "desc": "Photomontage nocturne de la Tour Eiffel illuminée, avec un voile de soie doré qui semble jaillir du sommet — jeu de matière et de lumière entre photographie et composition graphique.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Cérémonie des Récompenses — Ville de Bouillante",
+    "tag": "design",
+    "img": "Images/affiche_ceremonie_recompenses.jpg",
+    "alt": "Affiche Cérémonie des Récompenses — Ville de Bouillante",
+    "categorie": "Design · Affiche institutionnelle · Canva",
+    "desc": "Affiche pour la Cérémonie des Récompenses des écoles de Bouillante, édition 2026 — réalisée pour la Ville de Bouillante. Identité festive autour de la réussite scolaire, pensée pour l'affichage et la diffusion sur les réseaux.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Ville de Bouillante — Documents RH",
+    "tag": "branding",
+    "imgs": [
+      "Images/bouillante_dossier_reunion.png",
+      "Images/bouillante_dossier_administratif.png",
+      "Images/bouillante_porte_documents.png",
+      "Images/bouillante_documents_internes.png"
+    ],
+    "img": "Images/bouillante_dossier_reunion.png",
+    "alt": "Modèles de documents administratifs — Ville de Bouillante, Ressources Humaines",
+    "categorie": "Direction artistique · Charte documentaire · Canva",
+    "desc": "Conception d'un ensemble cohérent de couvertures de documents pour le service Ressources Humaines de la Ville de Bouillante — dossier de réunion, dossier administratif, porte-documents et documents internes, avec une identité visuelle commune.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Marëis",
+    "tag": "web",
+    "large": true,
+    "img": "Images/Mareis.jpeg",
+    "alt": "Page d'accueil du site MARËIS",
+    "categorie": "Web · HTML / CSS · Vs Code",
+    "desc": "Site associatif bilingue pour la protection marine en Guadeloupe, réalisé en équipe dans le cadre d'une SAÉ BUT MMI. Thème sombre/clair, design responsive, navigation accessible.",
+    "lien": "https://sallyanicet-gif.github.io/sae-1.05/index.html",
+    "download": null
+  },
+    {
+    "titre": "Affiche Avatar",
+    "tag": "design",
+    "img": "Images/avatar.jpg",
+    "alt": "Affiche minimaliste Avatar — style Saul Bass",
+    "categorie": "Design · Affiche · Photoshop",
+    "desc": "Affiche minimaliste pour le film Avatar de James Cameron, réalisée dans le cadre d'un exercice inspiré du style de Saul Bass. Composition épurée autour de l'arbre sacré Eywa, palette cyan et bleu électrique.",
+    "lien": null,
+    "download": null
+  },
+  {
+   "titre": "Blackpink",
+    "tag": "design",
+    "imgs": [
+      "Images/Black_Pink.png",
+      "Images/Black_Pink_2.png"
+    ],
+    "img": "Images/Black_Pink_2.png",
+    "alt": "Visuel BLACKPINK — Lovesick Girls 600 millions de vues",
+    "categorie": "Design · Visuel fan-made · Photoshop",
+    "desc": "Visuel commémoratif fan-made pour les 600 millions de vues du clip Lovesick Girls de BLACKPINK sur YouTube. Esthétique K-pop noir et rose, typographie impactante — deux déclinaisons de la composition.",
+    "lien": null,
+    "download": null
+  },
+   {
+    "titre": "Yasmina — Logo",
+    "tag": "design",
+    "img": "Images/logo_moi.png",
+    "alt": "Logo personnel Yasmina — typographie entrelacée",
+    "categorie": "Design · Personal branding",
+    "desc": "Création de mon logo personnel. Logotype typographique avec lettres entrelacées en dégradé rose-doré sur fond noir — esthétique éditoriale et luxueuse.",
+    "lien": null,
+    "download": null
+  },
+   {
+    "titre": "Mojito Fraise",
+    "tag": "design",
+    "img": "Images/Mojito fraise.png",
+    "alt": "Affiche publicitaire Mojito Fraise",
+    "categorie": "Design · Canva",
+    "desc": "Affiche publicitaire pour un cocktail Mojito Fraise — composition estivale, typographie fraîche, palette rouge et verte.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Lips",
+    "tag": "design",
+    "large": true,
+    "img": "Images/Charte graphique  page 1.png",
+    "alt": "Charte graphique — couverture",
+    "categorie": "Design · Canva",
+    "desc": "Création d'une identité visuelle complète pour une startup fictive — typographie, palette de couleurs, logo et ses déclinaisons, règles d'usage.",
+    "lien": null,
+    "download": "https://drive.google.com/file/d/1xMpSnZLUf0g6MUJd02kAfNarXr-osQH9/view?usp=drive_link"
+  },
+    {
+    "titre": "Logo Frida",
+    "tag": "design",
+    "img": "Images/FRIDA couleur 2.png",
+    "alt": "Logo Frida Kahlo coloré",
+    "categorie": "Design · Canva",
+    "desc": "Identité visuelle inspirée de la peintre Frida Kahlo — typographie expressive, couleurs vibrantes, formes organiques caractéristiques de son univers artistique.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Oana",
+    "tag": "branding",
+    "img": "Images/OANA.png",
+    "alt": "Logo et packaging OANA — savons artisanaux",
+    "categorie": "Branding · Identité visuelle · Canva",
+    "desc": "Conception de l'identité visuelle de OANA, une marque de savons artisanaux caribéens, réalisée dans le cadre d'un projet client. Logo aquarelle aux tons verts et dorés décliné sur le packaging produit, alliant authenticité naturelle et ancrage caribéen.",
+    "lien": null,
+    "download": null
+  },
+    {
+    "titre": "Ciao Kombucha",
+    "tag": "branding",
+    "imgs": [
+      "Images/ciao_dragon.png",
+      "Images/ciao_fruits_rouges.png",
+      "Images/ciao_fruit_de_la_passion.png",
+      "Images/ciao_peche.png",
+      "Images/ciao_pasteque.png",
+      "Images/ciao_hibiscus.png",
+      "Images/ciao_menthe.png",
+      "Images/ciao_citron.png"
+    ],
+    "img": "Images/ciao_dragon.png",
+    "alt": "Gamme complète Ciao Kombucha — 8 parfums",
+    "categorie": "Branding · Gamme de produits · Canva",
+    "desc": "Direction artistique complète pour une gamme de kombucha fictive — 8 parfums (fruit du dragon, fruits rouges, mangue passion, pêche, pastèque, gingembre hibiscus, menthe, citron), mise en scène packshot et univers colorés déclinés par saveur.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Affiche Mel Ramos",
+    "tag": "design",
+    "img": "Images/mel_ramos.png",
+    "alt": "Affiche d'exposition Mel Ramos — musée d'art contemporain",
+    "categorie": "Design · Affiche · Photoshop",
+    "desc": "Création d'une affiche d'exposition pour l'artiste pop art Mel Ramos, dans le cadre d'un exercice de cours sur le mouvement Pop Art. Composition typographique et visuelle pour le musée d'art contemporain [mac] de Marseille.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "ClearVita",
+    "tag": "branding",
+    "large": true,
+    "img": "Images/Clearvita.png",
+    "alt": "ClearVita — lentilles de contact éco-responsables",
+    "categorie": "Branding · Communication · Canva",
+    "desc": "Création réaliser par mes soins au complète d'une marque fictive de lentilles de contact éco-responsables, en anglais. Identité visuelle, gamme de produits naturels, persona, campagne publicitaire et mockups réseaux sociaux — du concept à la présentation finale.",
+    "lien": null,
+    "download": "https://drive.google.com/file/d/1V4iV2OPR7JgvjdQmH6ZXvf6e7D4EO8FH/view?usp=drive_link"
+  },
+   {
+    "titre": "Merry Christmas",
+    "tag": "design",
+    "img": "Images/Merry chrismas.png",
+    "alt": "Carte de vœux Merry Christmas",
+    "categorie": "Design · Canva",
+    "desc": "Carte de vœux festive pour Noël — sapin, père Noël, cadeaux et typographie calligraphique dorée sur fond vert profond.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Tasty Crousty",
+    "tag": "design",
+    "img": "Images/tasty_crousty.png",
+    "alt": "Affiche Tasty Crousty — Les Délices d'Iza",
+    "categorie": "Design · Affiche · Canva",
+    "desc": "Création d'une affiche publicitaire pour le plat signature du traiteur artisanal Les Délices d'Iza — le Tasty Crousty, un plat riz/poulet/oignons frits à 10€ avec Coca. Composition dynamique sur fond rouge-orangé.",
+    "lien": null,
+    "download": null
+  },
+    {
+    "titre": "Terre de Blues",
+    "tag": "branding",
+    "imgs": ["Images/2.jpg", "Images/1.jpg"],
+    "img": "Images/2.jpg",
+    "alt": "Affiche festival Terre de Blues — Marie-Galante",
+    "categorie": "Direction artistique · Festival · Canva",
+    "desc": "Conception des visuels pour la 23ème édition du Festival Terre de Blues de Marie-Galante, réalisée en équipe. Affiches artistes (The Wailers), supports de communication et identité événementielle aux couleurs soleil et terres créoles.",
+    "lien": null,
+    "download": null
+  },
+  {
+    "titre": "Sunréa",
+    "tag": "design",
+    "img": "Images/affiche_event_fictif.png",
+    "alt": "Affiche événement fictif SUNRÉA — Plage de Leroux, Deshaies",
+    "categorie": "Design · Affiche événementielle · Canva",
+    "desc": "Affiche pour un événement caribéen fictif — soirée Gwo Ka, contes, DJ set afro-caribéen et food à la Plage de Leroux, Deshaies. Esthétique tropicale et festive, palette coucher de soleil.",
+    "lien": null,
+    "download": null
+  },  
+  {
+    "titre": "L'oasis des héros",
+    "tag": "design",
+    "imgs": ["Images/Affiche.png", "Images/oasis des héros 2.png"],
+    "img": "Images/Affiche.png",
+    "alt": "Affiche L'Oasis des Héros",
+    "categorie": "Design · Canva",
+    "desc": "Affiche événementielle pour la journée portes ouvertes du BUT MMI. Concept superhéros, ambiance colorée et dynamique.",
+    "lien": null,
+    "download": null
+  },
+   {
+    "titre": "Nexovia",
+    "tag": "web",
+    "large": true,
+    "img": "Images/noxovia.png",
+    "alt": "Page d'accueil du site Nexovia",
+    "categorie": "Web · HTML / CSS · VS Code",
+    "desc": "Site d'actualités fictif réalisé dans le cadre d'un exercice BUT MMI. Plusieurs rubriques, navigation multi-pages, design éditorial responsive déployé sur GitHub Pages.",
+    "lien": "https://yasminaduflo97125-crypto.github.io/nexovia/Nexovia_index.html",
+    "download": null
+  },
+  {
+    "titre": "ISLOVA — Identité complète",
+    "tag": "branding",
+    "imgs": ["Images/affiche_islova.png", "Images/story_insta1.jpg", "Images/story_insta2.jpg", "Images/post_insta1.png", "Images/post_insta2.png"],
+    "img": "Images/affiche_islova.png",
+    "alt": "ISLOVA — identité visuelle complète, charms caribéens",
+    "categorie": "Branding · Direction artistique · Canva",
+    "desc": "Conception de l'ensemble des visuels pour ISLOVA, une marque de charms en acier inoxydable doré inspirés de la faune, la flore et la culture guadeloupéenne. Posts Instagram, stories et affiche de lancement — direction artistique complète.",
+    "lien": null,
+    "download": null
+  },
+  { 
+    "titre": "Reportage sur la méritocratie et le racisme",
+    "tag": "video",
+    "large": true,
+    "img": "Images/Illustration_logo.jpg",
+    "alt": "Montage vidéo IMPT — interviews sur le racisme",
+    "categorie": "Vidéo · Montage · Reportage",
+    "desc": "Reportage vidéo réalisé en classe dans le cadre du BUT MMI. Interviews filmées au sein de l'université autour de la thématique du racisme — cadrage, tournage et montage assurés par l'équipe étudiante.",
+    "lien": null,
+    "download": null,
+    "video": "https://drive.google.com/file/d/19jmv8R4wJ6D55e2AU4GODwU9Yvh03XL3/preview"
+  },
+  {
+    "titre": "Scream court-métrage",
+    "tag": "video",
+    "large": true,
+    "img": "Images/Scream_image.jpg",
+    "alt": "Court-métrage Scream — film d'horreur étudiant",
+    "categorie": "Vidéo · Court-métrage · Fiction",
+    "desc": "Court-métrage d'horreur/thriller réalisé en classe dans le cadre du BUT MMI. Production collective de A à Z — scénario, tournage, jeu d'acteur et montage assurés par la promotion entière.",
+    "lien": null,
+    "download": null,
+    "video": "https://drive.google.com/file/d/1rBhXrE7YD7P3SIWS_GPpwKn642CUEasy/preview"
+  }
+]
